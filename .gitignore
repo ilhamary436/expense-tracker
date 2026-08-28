@@ -1,3 +1,7 @@
 .env
 node_modules/
 .DS_Store
+ARCHITECTURE.md
+GEMINI.md
+TODO.md
+WORKFLOWS.md
